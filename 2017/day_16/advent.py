@@ -1,5 +1,3 @@
-from datetime import datetime
-
 DANCER_SIZE = 16
 dancers = [chr(n) for n in range(97, 97+DANCER_SIZE)]
 
